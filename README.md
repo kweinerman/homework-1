@@ -20,6 +20,12 @@ Rehashed the code to make it more readible and improved about the navgiation wit
 
 Added an ID to the header to make the header into a navigation tool
 
+## Credits
+Credit to DU Bootcamp for the original web design 
+
+Credit to Dan K and Jeff F for building the assignment 
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
