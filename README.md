@@ -11,7 +11,7 @@ From the header you will be able to navigate to any part of the page and learn m
 
 Use this site and naviagtion tools to learn more about Horiseon. 
 
-This page can be easily accessed through the web via https://kweinerman.github.io/homework-1/Develop/Index.html
+This page can be easily accessed through the web via https://kweinerman.github.io/homework-1/Develop/index.html
 
 ## Changes and Challenges 
 Updated the index.html to follow a more sementic structure
