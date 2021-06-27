@@ -117,20 +117,8 @@ p {
     color: #ffffff;
 }
 
-/*Sets lead gen text area*/
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/*Sets brand awareness text area*/
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/*Sets brand awareness text area*/
-.benefit-cost h3 {
+/*Sets aside text area*/
+h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -156,8 +144,8 @@ p {
     max-width: 150px;
 }
 
-/*Styles search engine box on the page with size, font, color and background color*/
-.search-engine-optimization {
+/*Styles sall sections with size, font, color and background color*/
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -166,58 +154,18 @@ p {
     color: #ffffff;
 }
 
-/*Styles online reputation management box with size, font, color and background color*/
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-/*Styles social media marketing box with size, font, color and background color*/
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/*sets positioning of search engime img*/
-.search-engine-optimization img {
+/*sets positioning of sectoin imgages*/
+img {
     max-height: 200px;
 }
 
-/*sets positioning of online reputation img*/
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-/*sets positioning of social media img*/
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-/*Styles search engine text*/
-.search-engine-optimization h2 {
+/*Styles section content text*/
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/*Styles online reputation text*/
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/*Styles social media text*/
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 /*Styles the footer with font style and alignment*/
 .footer {
